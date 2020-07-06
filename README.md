@@ -1,6 +1,8 @@
 # fortnite_weapon
 
-An App for Fortnite weapon stats
+An App for Fortnite weapon stats.
+Used Flutter for the development of this application.
+Used some basic concepts of stateful widgets and navigation.
 
 ## Getting Started
 
